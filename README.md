@@ -14,4 +14,4 @@ This project is Microservices built with .NET, ASP.NET Core, MongoDB,RabbitMQ, M
     + ASP .NET Core, 
     + Entity Framework Core
 - Frontend
-    - ASP.NET Model View Controller (MVC)
+    - React JS
